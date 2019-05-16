@@ -1,0 +1,22 @@
+20190512-11:59:04.220 0000785C - ERROR: ERROR: 2 RLEvent::TryToOpen(Global\AANS_FvwjZ_CHI)
+20190515-18:26:17.094 00000A44 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20190515-18:26:17.133 00000A44 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20190515-18:26:47.576 00002BA0 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20190515-18:30:13.501 00001C58 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20190515-18:30:33.994 00002A1C - ERROR: Module AANS exit with code 13002
+20190515-18:30:34.521 00002CCC - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20190515-18:35:36.728 00001BC4 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20190515-18:35:54.413 00002568 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20190515-18:36:43.642 00001C04 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20190515-19:01:25.116 00001C04 - ERROR: NTS return file not found
+20190515-19:01:25.119 00001C04 - ERROR: Module AANS exit with code 0
+20190515-21:33:50.658 00002B68 - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20190515-21:34:59.535 00001CF8 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20190515-21:35:30.846 0000324C - main\ImpersonateWrapper.cpp	ERROR: WTSQueryUserToken() error=1008
+20190515-21:36:44.043 00001C18 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20190516-02:49:34.666 00002350 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20190516-05:49:36.582 000023FC - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20190516-05:49:36.694 00001C18 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20190516-05:49:36.700 00001020 - ERROR: Couldn't connect to routers 95.211.242.84:443,80,8080|95.211.191.142:443,80,8080|136.243.18.81:443,80,8080|
+20190516-08:42:42.252 00001C18 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20190516-08:42:42.430 00003DB8 - ERROR: Couldn't connect to routers 95.211.242.84:443,80,8080|95.211.191.142:443,80,8080|136.243.18.81:443,80,8080|
